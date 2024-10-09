@@ -1,0 +1,17 @@
+[book]
+authors = ["Laurens Weitkamp"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Deep Vision"
+
+
+[output.html]
+mathjax-support = true
+no-section-label = true
+
+[output.html.code.hidelines]
+python = ":::"
+
+[output.html.fold]
+enable = false
